@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/react-first/static/js/main.4874d6cc.js",
-    "index.html": "/react-first/index.html",
-    "main.4874d6cc.js.map": "/react-first/static/js/main.4874d6cc.js.map"
+    "main.js": "/react-flipping-state/static/js/main.4874d6cc.js",
+    "index.html": "/react-flipping-state/index.html",
+    "main.4874d6cc.js.map": "/react-flipping-state/static/js/main.4874d6cc.js.map"
   },
   "entrypoints": [
     "static/js/main.4874d6cc.js"
